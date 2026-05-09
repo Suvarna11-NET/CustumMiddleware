@@ -18,7 +18,11 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-app.UseMiddleware<StudentController>() ;
+app.UseMiddleware<StudentController>();
+app.UseMiddleware<DepartmentMiddleware>() ;
+app.UseMiddleware<ValueMiddleware>() ;
+app.UseMiddleware<ChaitaliMiddleware>() ;
+app.MapControllers();
 app.UseAuthorization();
 
 app.MapControllers();

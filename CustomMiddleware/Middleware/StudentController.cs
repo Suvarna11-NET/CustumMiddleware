@@ -11,11 +11,12 @@ namespace CustomMiddleware.Middleware
         }
         public async Task InvokeAsync(HttpContext context)
         {
-            Console.WriteLine("Before Request");
+            Console.WriteLine("Student Middleware - Before Request");
 
             await _next(context);
 
-            Console.WriteLine("After Response");
+            Console.WriteLine("Student Middleware - After Response");
+
         }
 
     }

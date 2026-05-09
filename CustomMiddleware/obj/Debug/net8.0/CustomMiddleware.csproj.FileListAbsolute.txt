@@ -18,6 +18,7 @@ C:\Users\Amruta\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\net8.0\
 C:\Users\Amruta\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\net8.0\CustomMiddleware.csproj.CoreCompileInputs.cache
 C:\Users\Amruta\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\net8.0\CustomMiddleware.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Amruta\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\net8.0\CustomMiddleware.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amruta\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\net8.0\CustomMiddleware.sourcelink.json
 C:\Users\Amruta\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\Amruta\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Amruta\source\repos\CustomMiddleware\CustomMiddleware\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
