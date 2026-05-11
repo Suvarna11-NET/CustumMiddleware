@@ -22,6 +22,7 @@ app.UseMiddleware<StudentController>();
 app.UseMiddleware<DepartmentMiddleware>() ;
 app.UseMiddleware<ValueMiddleware>() ;
 app.UseMiddleware<ChaitaliMiddleware>() ;
+app.UseMiddleware<DemoMiddleware>() ;
 app.MapControllers();
 app.UseAuthorization();
 
